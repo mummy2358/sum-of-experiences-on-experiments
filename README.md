@@ -1,4 +1,4 @@
-# sum-of-experiences-on-experiments
+# sum of experiences on DL experiments
 summarize of the experiences on deep learning experiments
 
 It is too often these days that one spent several hours to implement a model but several days on implementation details to get it actually work. Most of the time are spent on such time-costing iterations, usually due to either lack of background knowledge or lack of enough details from the author or institution. The best way when one fall into such difficulties is to directly check the official implementation and try to modify all the possible different places and see what happens. Here I woulld like to summarize things that seems small but greatly affect whether the model works correctly.
